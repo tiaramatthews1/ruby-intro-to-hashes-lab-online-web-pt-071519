@@ -33,7 +33,9 @@ monopoly = {
     :b_and_o_railroad => {},
     :shortline => {}
   },
-  :rent_in_dollars => {}
+  :rent_in_dollars => {
+    
+  }
   }
 }
 end

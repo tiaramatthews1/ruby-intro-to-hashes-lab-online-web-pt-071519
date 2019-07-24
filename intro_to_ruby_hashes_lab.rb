@@ -23,7 +23,12 @@ monopoly =  {
 end
 
 def monopoly_with_third_tier
-
+monopoly = {
+  :railroads => {
+  :name => {}
+  :rent_in_dollars => {}
+  }
+}
 end
 
 def monopoly_with_fourth_tier
